@@ -1,6 +1,10 @@
 ## Management System
 본 프로젝트는  React 스터디 목적인 고객관리 시스템 입니다..
 
+nodejs설치
+npm설치
+npm install -g create-react-app
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
