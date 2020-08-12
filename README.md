@@ -6,6 +6,7 @@ npm설치
 npm install -g create-react-app
 
 VSCode 수정
+웹상수정
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
